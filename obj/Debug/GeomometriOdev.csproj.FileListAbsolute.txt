@@ -1,0 +1,20 @@
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\bin\Debug\GeomometriOdev.exe.config
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\bin\Debug\GeomometriOdev.exe
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\bin\Debug\GeomometriOdev.pdb
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.csprojAssemblyReference.cache
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.Form1.resources
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.Properties.Resources.resources
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.csproj.GenerateResource.cache
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.csproj.CoreCompileInputs.cache
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.exe
+C:\Users\oztan\OneDrive\Masaüstü\C#\WINDOWS FORMS\GeomometriOdev\obj\Debug\GeomometriOdev.pdb
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\bin\Debug\GeomometriOdev.exe.config
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\bin\Debug\GeomometriOdev.exe
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\bin\Debug\GeomometriOdev.pdb
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.csprojAssemblyReference.cache
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.Form1.resources
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.Properties.Resources.resources
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.csproj.GenerateResource.cache
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.csproj.CoreCompileInputs.cache
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.exe
+C:\Users\oztan\OneDrive\Masaüstü\C#\Ödevler\GeomometriOdev\obj\Debug\GeomometriOdev.pdb
